@@ -5,6 +5,8 @@ import os
 os.chdir('/home/kln/Documents/edu/demo')
 
 s = 'this is a string'
-a = 5
+w = 2
 for c in s:
-    print c*a
+    print c*2
+print s
+print w
